@@ -1,16 +1,30 @@
-## Hi there 👋
+```ts
+Input : Hello Everyone ! I'm Hevellyn Mc'Frei.|
 
-<!--
-**H-Mcfrei/H-Mcfrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Founder {
+  name = "Hevellyn Mc'Frei";
+  company = "XTRHYLL™";
+  role = "Founder";
 
-Here are some ideas to get you started:
+  ecosystem = "Global Deep Tech & Innovation Ecosystem";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interests = [
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Digital Trust",
+    "Strategic Intelligence",
+    "Human-Centered AI",
+    "Research & Innovation"
+  ];
+
+  currentlyBuilding = [
+    "XTRHYLL™",
+    "XTRHYLL™ LABS",
+    "XTRHYLL™ Dinamun Review",
+    "UnbrIAkable"
+  ];
+
+  mission() {
+    return "Transforming research, technology and strategic intelligence into real-world impact.";
+  }
+}
