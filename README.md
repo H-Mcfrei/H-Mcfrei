@@ -1,1 +1,1 @@
-<img align="center" width="940" height="666" alt="hevellyn-github-one-block-colorful-input-equals" src="https://github.com/user-attachments/assets/90061f3c-4a00-4732-b410-9dbe14a69917" />
+<img align="center" width="940" height="666" alt="hevellyn-github-one-block-github-dark" src="https://github.com/user-attachments/assets/f484a01c-5e40-4e39-8631-02f61d4c2d20" />
