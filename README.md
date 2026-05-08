@@ -1,17 +1,18 @@
 <head>
   <div align="center">
     <img width="940" height="666" alt="hevellyn-github-dark-solid-bg" src="https://github.com/user-attachments/assets/788f3770-18da-4db3-bf11-4bade8d14d55" />
-  </div>
-    <div align="center" >
-      <img width="810" height="350" alt="Background github 3" src="https://github.com/user-attachments/assets/2ee3eef4-036c-4ebe-a6e7-9b3c376c192d" />
-   </div>
 </head><br>
 <body>
+  </div>
+    <div align="center" >
+      <img width="810" height="350" alt="Background Github 4" src="https://github.com/user-attachments/assets/c4c50f71-bd0f-469c-9728-b771abda44de" />
+  </div><br>
   <div align="center" >
     <a href="http://lattes.cnpq.br/9898418408120334"><img src="https://img.shields.io/badge/Lattes-14F1D9?style=for-the-badge&logo=googlescholar&logoColor=ffffff" /></a>
     <a href="https://www.linkedin.com/in/h-mcfrei/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" target="_blank"></a>
     <a href="https://orcid.org/0009-0005-3356-7286"><img src="https://img.shields.io/badge/ORCID-9D4EDD?style=for-the-badge&logo=orcid&logoColor=ffffff" /></a>
     <a href="https://www.instagram.com/h.mcfrei/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" target="_blank"></a>
     <a href="https://www.youtube.com/@XTRHYLL_Official"><img src="https://img.shields.io/badge/Youtube-FF2E9F?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
+   </div>
    </div>
 </body>
