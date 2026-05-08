@@ -17,3 +17,8 @@
    </div>
    </div>
 </body>
+<footer>
+  <div align="center" >
+      <h6>©2026  Hevellyn Mc'Frei • XTRHYLL™ </h6>
+   </div>
+</footer>
