@@ -1,3 +1,3 @@
 <div>
-  <img width="940" height="666" alt="hevellyn-github-dark-solid-bg-light-panel" src="https://github.com/user-attachments/assets/6cbc58bb-7673-418a-8c75-828ec1957ce5" /><div align="center">
+  <img align="center" width="940" height="666" alt="hevellyn-github-dark-solid-bg" src="https://github.com/user-attachments/assets/788f3770-18da-4db3-bf11-4bade8d14d55" /><div align="center" >
 </div>
