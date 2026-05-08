@@ -3,9 +3,7 @@
     <img width="940" height="666" alt="hevellyn-github-dark-solid-bg" src="https://github.com/user-attachments/assets/788f3770-18da-4db3-bf11-4bade8d14d55" />
   </div>
     <div align="center" >
-      <a href="#" >
-         <img width="810" height="280" alt="Hello World" src="https://github.com/user-attachments/assets/9d35ad6c-9929-4994-9e86-8ae742a29880" />
-      </a>
+      <img width="810" height="280" alt="Background github" src="https://github.com/user-attachments/assets/414f80d9-6ba0-4781-8dcf-155a8bd3a3b8" />
    </div>
 </head><br>
 <body>
@@ -17,8 +15,3 @@
     <a href="https://www.youtube.com/@XTRHYLL_Official"><img src="https://img.shields.io/badge/Youtube-FF2E9F?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
    </div>
 </body>
-<footer>
-   <div align="right">
-     <img width="200" height="200" alt="XTRHYLL Logo darkmode 2" src="https://github.com/user-attachments/assets/045a0908-3d9d-4448-9c59-9d01486054c7" />
-   </div>
-</footer>
