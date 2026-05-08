@@ -19,6 +19,6 @@
 </body>
 <footer>
    <div align="right">
-     <img width="210" height="210" alt="XTRHYLL Logo darkmode 2" src="https://github.com/user-attachments/assets/045a0908-3d9d-4448-9c59-9d01486054c7" />
+     <img width="200" height="200" alt="XTRHYLL Logo darkmode 2" src="https://github.com/user-attachments/assets/045a0908-3d9d-4448-9c59-9d01486054c7" />
    </div>
 </footer>
