@@ -19,6 +19,6 @@
 </body>
 <footer>
   <div align="center" >
-      <h6>©2026  Hevellyn Mc'Frei • XTRHYLL™ </h6>
+      <img width="920" height="70" alt="xtrhyll_footer_animated_no_bars" src="https://github.com/user-attachments/assets/7082f7a5-0a1f-45de-b310-75c368085b6c" />
    </div>
 </footer>
