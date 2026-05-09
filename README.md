@@ -2,6 +2,14 @@
   <div align="center">
     <img width="940" height="666" src="https://github.com/user-attachments/assets/788f3770-18da-4db3-bf11-4bade8d14d55" />
   </div>
+  <div align="right">
+    
+   `Artificial Intelligence`
+   `Software Engineering`
+   `Global Deep Tech & Innovation Ecosystem`
+   `Strategic Business`
+   
+  </div>
   <div align="center" >
     <img width="810" height="350" src="https://github.com/user-attachments/assets/0bf8fcab-db94-4bbd-8768-0a015fe7f990" />
   </div>
